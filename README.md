@@ -1,4 +1,4 @@
 # uday-demo
 This is my first Git repository
 <br>
-Author - Uday kumar
+Author - Uday modi
