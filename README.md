@@ -1,2 +1,2 @@
 # uday-demo
-this is my first Gt repository
+this is my first Git repository
